@@ -1,1 +1,2 @@
-# weather-app
+# JAVASCRIPT WEATHER APP
+The Weather App is a JavaScript-based web application that provides basic functionalities such as displaying current weather conditions including temperature, humidity, wind speed, and weather description for a specified city or location. It also offers weather forecasts for the upcoming days, automatic updates, and the ability to share weather information via social media or email. The app is designed to be user-friendly with a simple interface for easy input and clear presentation of weather data.
